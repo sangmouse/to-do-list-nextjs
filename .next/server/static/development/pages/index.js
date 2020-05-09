@@ -131,7 +131,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\admin\\Desktop\\do-do-app-nextjs\\components\\Form.js";
+var _jsxFileName = "C:\\Users\\admin\\Pictures\\to-do-list-nextjs\\components\\Form.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -482,7 +482,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\admin\\Desktop\\do-do-app-nextjs\\components\\ListTable.js";
+var _jsxFileName = "C:\\Users\\admin\\Pictures\\to-do-list-nextjs\\components\\ListTable.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement;
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
@@ -658,7 +658,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Form__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../components/Form */ "./components/Form.js");
 /* harmony import */ var _components_ListTable__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/ListTable */ "./components/ListTable.js");
 
-var _jsxFileName = "C:\\Users\\admin\\Desktop\\do-do-app-nextjs\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\admin\\Pictures\\to-do-list-nextjs\\pages\\index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -797,7 +797,7 @@ class Home extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\admin\Desktop\do-do-app-nextjs\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\admin\Pictures\to-do-list-nextjs\pages\index.js */"./pages/index.js");
 
 
 /***/ }),
